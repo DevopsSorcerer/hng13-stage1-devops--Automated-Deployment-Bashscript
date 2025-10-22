@@ -1,0 +1,6 @@
+[2025-10-22 18:06:45] 🚀 Starting Static HTML Deployment
+[2025-10-22 18:08:22] 🔌 Testing SSH connection...
+[2025-10-22 18:08:25] ⚙️ Preparing remote server...
+[2025-10-22 18:09:20] ✅ Remote environment ready
+[2025-10-22 18:09:20] 📥 Cloning repository: hng13-stage1-devops--Automated-Deployment-Bashscript
+[2025-10-22 18:09:20] 🔄 Repository exists - pulling updates
